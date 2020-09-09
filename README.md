@@ -1,1 +1,4 @@
 # HydroTrackerApplication
+This project was for my Honors Intro to Engineering class at Rutgers. The goal of the assignment was to develop any human centered design product with the main purpose being something to help people with everyday tasks. My group decided to create a waterbottle that tracks its users consumption and log it in a similar fashion to the health app on an iPhone or a fitbit. This web application was meant to work in tandem with our bottle along with a google firebase server on the backend. Data collected from the bottle would be
+logged to the firebase server's database and this web application would take the data from firebase and project it on the app. There are also other features built into the app like the ability to set goals and log progress that upload data back to the database.
+
